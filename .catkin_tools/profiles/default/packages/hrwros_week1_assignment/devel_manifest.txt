@@ -1,0 +1,20 @@
+hrwros_assignments/hrwros_week1_assignment
+/home/saz/hrwros_ws/devel/.private/hrwros_week1_assignment/cmake.lock /home/saz/hrwros_ws/devel/./cmake.lock
+/home/saz/hrwros_ws/devel/.private/hrwros_week1_assignment/share/common-lisp/ros/hrwros_week1_assignment/msg/_package_BoxHeightInformation.lisp /home/saz/hrwros_ws/devel/share/common-lisp/ros/hrwros_week1_assignment/msg/_package_BoxHeightInformation.lisp
+/home/saz/hrwros_ws/devel/.private/hrwros_week1_assignment/share/common-lisp/ros/hrwros_week1_assignment/msg/BoxHeightInformation.lisp /home/saz/hrwros_ws/devel/share/common-lisp/ros/hrwros_week1_assignment/msg/BoxHeightInformation.lisp
+/home/saz/hrwros_ws/devel/.private/hrwros_week1_assignment/share/common-lisp/ros/hrwros_week1_assignment/msg/_package.lisp /home/saz/hrwros_ws/devel/share/common-lisp/ros/hrwros_week1_assignment/msg/_package.lisp
+/home/saz/hrwros_ws/devel/.private/hrwros_week1_assignment/share/common-lisp/ros/hrwros_week1_assignment/msg/hrwros_week1_assignment-msg.asd /home/saz/hrwros_ws/devel/share/common-lisp/ros/hrwros_week1_assignment/msg/hrwros_week1_assignment-msg.asd
+/home/saz/hrwros_ws/devel/.private/hrwros_week1_assignment/share/gennodejs/ros/hrwros_week1_assignment/_index.js /home/saz/hrwros_ws/devel/share/gennodejs/ros/hrwros_week1_assignment/_index.js
+/home/saz/hrwros_ws/devel/.private/hrwros_week1_assignment/share/gennodejs/ros/hrwros_week1_assignment/msg/BoxHeightInformation.js /home/saz/hrwros_ws/devel/share/gennodejs/ros/hrwros_week1_assignment/msg/BoxHeightInformation.js
+/home/saz/hrwros_ws/devel/.private/hrwros_week1_assignment/share/gennodejs/ros/hrwros_week1_assignment/msg/_index.js /home/saz/hrwros_ws/devel/share/gennodejs/ros/hrwros_week1_assignment/msg/_index.js
+/home/saz/hrwros_ws/devel/.private/hrwros_week1_assignment/share/hrwros_week1_assignment/cmake/hrwros_week1_assignment-msg-paths.cmake /home/saz/hrwros_ws/devel/share/hrwros_week1_assignment/cmake/hrwros_week1_assignment-msg-paths.cmake
+/home/saz/hrwros_ws/devel/.private/hrwros_week1_assignment/share/hrwros_week1_assignment/cmake/hrwros_week1_assignmentConfig.cmake /home/saz/hrwros_ws/devel/share/hrwros_week1_assignment/cmake/hrwros_week1_assignmentConfig.cmake
+/home/saz/hrwros_ws/devel/.private/hrwros_week1_assignment/share/hrwros_week1_assignment/cmake/hrwros_week1_assignment-msg-extras.cmake /home/saz/hrwros_ws/devel/share/hrwros_week1_assignment/cmake/hrwros_week1_assignment-msg-extras.cmake
+/home/saz/hrwros_ws/devel/.private/hrwros_week1_assignment/share/hrwros_week1_assignment/cmake/hrwros_week1_assignmentConfig-version.cmake /home/saz/hrwros_ws/devel/share/hrwros_week1_assignment/cmake/hrwros_week1_assignmentConfig-version.cmake
+/home/saz/hrwros_ws/devel/.private/hrwros_week1_assignment/share/roseus/ros/hrwros_week1_assignment/manifest.l /home/saz/hrwros_ws/devel/share/roseus/ros/hrwros_week1_assignment/manifest.l
+/home/saz/hrwros_ws/devel/.private/hrwros_week1_assignment/share/roseus/ros/hrwros_week1_assignment/msg/BoxHeightInformation.l /home/saz/hrwros_ws/devel/share/roseus/ros/hrwros_week1_assignment/msg/BoxHeightInformation.l
+/home/saz/hrwros_ws/devel/.private/hrwros_week1_assignment/include/hrwros_week1_assignment/BoxHeightInformation.h /home/saz/hrwros_ws/devel/include/hrwros_week1_assignment/BoxHeightInformation.h
+/home/saz/hrwros_ws/devel/.private/hrwros_week1_assignment/lib/python3/dist-packages/hrwros_week1_assignment/__init__.py /home/saz/hrwros_ws/devel/lib/python3/dist-packages/hrwros_week1_assignment/__init__.py
+/home/saz/hrwros_ws/devel/.private/hrwros_week1_assignment/lib/python3/dist-packages/hrwros_week1_assignment/msg/__init__.py /home/saz/hrwros_ws/devel/lib/python3/dist-packages/hrwros_week1_assignment/msg/__init__.py
+/home/saz/hrwros_ws/devel/.private/hrwros_week1_assignment/lib/python3/dist-packages/hrwros_week1_assignment/msg/_BoxHeightInformation.py /home/saz/hrwros_ws/devel/lib/python3/dist-packages/hrwros_week1_assignment/msg/_BoxHeightInformation.py
+/home/saz/hrwros_ws/devel/.private/hrwros_week1_assignment/lib/pkgconfig/hrwros_week1_assignment.pc /home/saz/hrwros_ws/devel/lib/pkgconfig/hrwros_week1_assignment.pc

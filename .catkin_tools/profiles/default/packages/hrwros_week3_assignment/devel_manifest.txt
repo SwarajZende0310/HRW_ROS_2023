@@ -1,0 +1,5 @@
+hrwros_assignments/hrwros_week3_assignment
+/home/saz/hrwros_ws/devel/.private/hrwros_week3_assignment/cmake.lock /home/saz/hrwros_ws/devel/./cmake.lock
+/home/saz/hrwros_ws/devel/.private/hrwros_week3_assignment/share/hrwros_week3_assignment/cmake/hrwros_week3_assignmentConfig-version.cmake /home/saz/hrwros_ws/devel/share/hrwros_week3_assignment/cmake/hrwros_week3_assignmentConfig-version.cmake
+/home/saz/hrwros_ws/devel/.private/hrwros_week3_assignment/share/hrwros_week3_assignment/cmake/hrwros_week3_assignmentConfig.cmake /home/saz/hrwros_ws/devel/share/hrwros_week3_assignment/cmake/hrwros_week3_assignmentConfig.cmake
+/home/saz/hrwros_ws/devel/.private/hrwros_week3_assignment/lib/pkgconfig/hrwros_week3_assignment.pc /home/saz/hrwros_ws/devel/lib/pkgconfig/hrwros_week3_assignment.pc

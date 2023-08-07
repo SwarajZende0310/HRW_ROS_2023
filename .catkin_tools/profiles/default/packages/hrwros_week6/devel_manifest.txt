@@ -1,0 +1,5 @@
+hrwros_week6
+/home/saz/hrwros_ws/devel/.private/hrwros_week6/cmake.lock /home/saz/hrwros_ws/devel/./cmake.lock
+/home/saz/hrwros_ws/devel/.private/hrwros_week6/share/hrwros_week6/cmake/hrwros_week6Config.cmake /home/saz/hrwros_ws/devel/share/hrwros_week6/cmake/hrwros_week6Config.cmake
+/home/saz/hrwros_ws/devel/.private/hrwros_week6/share/hrwros_week6/cmake/hrwros_week6Config-version.cmake /home/saz/hrwros_ws/devel/share/hrwros_week6/cmake/hrwros_week6Config-version.cmake
+/home/saz/hrwros_ws/devel/.private/hrwros_week6/lib/pkgconfig/hrwros_week6.pc /home/saz/hrwros_ws/devel/lib/pkgconfig/hrwros_week6.pc
